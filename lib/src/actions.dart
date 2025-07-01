@@ -226,6 +226,7 @@ class SlidableAction extends StatelessWidget {
     return CustomSlidableAction(
       borderRadius: borderRadius,
       padding: padding,
+      margin: margin,
       onPressed: onPressed,
       autoClose: autoClose,
       backgroundColor: backgroundColor,
